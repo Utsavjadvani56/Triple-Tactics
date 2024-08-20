@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="logoback">#058789</color>
+    <color name="btnRed">#7B0828</color>
+    <color name="txtNight">#0F0E0E</color>
+    <color name="lightBackgroundColor">#F5F5F5</color>
+    <color name="red">#BB0303</color>
 </resources>
