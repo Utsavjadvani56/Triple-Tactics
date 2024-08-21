@@ -123,7 +123,7 @@
                 android:fontFamily="@font/lexend_bold"
                 android:text="Let's Begin"
                 android:textAllCaps="true"
-                android:background="@color/btnRed"
+                android:backgroundTint="@color/btnRed"
                 android:textColor="@color/white"
                 android:textSize="18sp" />
         </LinearLayout>
